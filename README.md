@@ -10,7 +10,7 @@ az postgres server create --resource-group github-lznunes --name srv-api-cidades
 
 
 CRIANDO DB
-C:\Program Files\Microsoft SDKs\Azure\.NET SDK\v2.9>az postgres db create --resource-group github-lznunes --name api-cidades --server-name srv-api-cidades
+az postgres db create --resource-group github-lznunes --name api-cidades --server-name srv-api-cidades
 {
   "charset": "UTF8",
   "collation": "English_United States.1252",
