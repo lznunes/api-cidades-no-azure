@@ -25,8 +25,8 @@ az postgres db create --resource-group github-lznunes --name api-cidades --serve
 logging.level.org.hibernate.SQL=DEBUG
 
 spring.datasource.url=jdbc:postgresql://srv-api-cidades.postgres.database.azure.com:5432/api-cidades
-spring.datasource.username=postgres@srv-api-cidades
-spring.datasource.password=Senh@2020
+spring.datasource.username=usuario@srv-api-cidades
+spring.datasource.password=senha
 
 spring.jpa.show-sql=true
 spring.jpa.hibernate.ddl-auto=create-drop
