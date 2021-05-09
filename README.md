@@ -1,5 +1,6 @@
 # api-cidades-no-azure
-
+###Base de estados e municipos:
+https://github.com/chinnonsantos/sql-paises-estados-cidades/tree/master/PostgreSQL
 
 TUTORIAL MICROSOFT
 https://docs.microsoft.com/pt-br/azure/developer/java/spring-framework/configure-spring-data-jpa-with-azure-postgresql
